@@ -1,0 +1,20 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12B
+# 5/23/16
+# lab7
+# Programmed in java a dictionary. We used a Binary Search Tree (BST)
+# implementation to store all of the entries. Each entry, as usual,
+# contains a key and a value (Strings). The dictionary operates at the client level,
+# the same as our previous java assignments, but operates with a different ADT.
+# The operations available to the user are: isEmpty(), size(), lookup(),
+# insert(), delete(), makeEmpty(), and toString(). 
+# ------------------------------------------------------------
+
+Makefile
+Dictionary.java
+DictionaryInterface.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryClient.java

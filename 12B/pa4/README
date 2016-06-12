@@ -1,0 +1,30 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 5/6/16
+# Programmed in Java a Queue ADT to work in unison with
+# a job class. The queue has a linked list implementation.
+# You may add objects at the end of the queue and remove objects
+# at the end of the queue. This program is given an input file
+# consisting of the number of jobs and the duration and arrival
+# times of each of those jobs. These jobs are placed into a queue,
+# and then processed. When a job "arrives", if there is an available
+# processing queue, it is placed into an available queue. If not,
+# it is placed into a processing queue with the "shortest" line.
+# When a program is placed at the front of the line,
+# the finish time is determined. The program tracks the total amount
+# of time, each job has waited, in addition to the longest wait time,
+# and the average wait time. This wait time information is printed out
+# to a report file. Also when each job either arrives or finishes
+# the state of each processor is printed out to a trace file. This occurs
+# for a number of processors from 1 to m-1 where m is the number of jobs
+# ------------------------------------------------------------
+
+Makefile
+Simulation.java
+QueueInterface.java
+QueueEmptyException.java
+Queue.java
+QueueTest.java
+Job.java

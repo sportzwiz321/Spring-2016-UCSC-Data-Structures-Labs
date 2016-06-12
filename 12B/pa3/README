@@ -1,0 +1,22 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12B
+# 4/20/16
+# Implemented a Dictionary ADT using a LinkedList structure.
+# I used a one directional head node, going in one direction.
+# When I add a pair of values (key/value) to the list,
+# I insert the node at the end of the list.
+# While when I remove, once I know that it is there to remove,
+# splice that Node out of the list. That node no longer has ay references to it.
+# The previous nodes "next" becomes the next state of the removed Node.
+# I also implemented the other methods of the DictionaryInterface class that I was given
+# ------------------------------------------------------------
+
+Dictionary.java
+DictionaryTest.java
+DuplicateKeyException.java
+KeyNotFoundException.java
+DictionaryInterface.java
+DictionaryClient.java
+Makefile.txt

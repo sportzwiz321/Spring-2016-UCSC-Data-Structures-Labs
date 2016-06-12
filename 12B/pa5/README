@@ -1,0 +1,21 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12B
+# 5/20/16
+# pa5
+# Programmed in C a dictionary. We used a hash table implementation
+# creating linked lists upon collisions. This lab is similar to a previous
+# assignment in that we had to create a dictionary, storing nodes with two
+# character array values. The difference of course is the implementation.
+# The hash table allows us to randomly place entries into the table by "hashing"
+# the "key" character array. The operations available to the user are
+# newDictionary(), freeDictionary(), isEmpty(), size(), lookup(),
+# insert(), delete(), makeEmpty(), and printDictionary().
+# ------------------------------------------------------------
+
+Makefile
+Dictionary.c
+DictionaryTest.c
+DictionaryClient.c
+Dictionary.h

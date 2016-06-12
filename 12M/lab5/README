@@ -1,0 +1,20 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 5/10/16
+# Programmed in C a Dictionary ADT using the LinkedList data Structure
+# this data type is identical to the programming assignment 3. Each entry
+# in the dictionary contains a key and a value which are character arrays
+# not strings (since strings do not exist in C). The methods available are
+# newDictionary, freeDicitionary, insert, delete, size, isEmpty, lookup,
+# makeEmpty, and printDictionary. Since this ADT is in C and not java,
+# I had to manually allocate memory for each variable/object and deallocate
+# each variable/object when it is finished being used.
+# ------------------------------------------------------------
+
+Makefile
+Dictionary.c
+DictionaryTest.c
+Dictionary.h
+DictionaryClient.c

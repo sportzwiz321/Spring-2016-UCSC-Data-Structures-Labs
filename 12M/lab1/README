@@ -1,0 +1,11 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 3/29/16
+# Used Makefile to create and delete java class and jar files.
+# ------------------------------------------------------------
+
+Makefile
+HelloUser.java
+HelloUser2.java

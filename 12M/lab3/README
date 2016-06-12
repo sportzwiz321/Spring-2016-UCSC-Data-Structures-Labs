@@ -1,0 +1,18 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 4/16/16
+# Programmed in C a program to read a file
+# with the name of the file given in the command line
+# reverse the words and write the reversed words
+# on separate lines into an output file.
+# The input and output files names are both
+# passed as arguments in the command line.
+# The reversing of the the strings (or character arrays)
+# was done in a while loop
+# not done recursively.
+# ------------------------------------------------------------
+
+Makefile
+FileReverse.c

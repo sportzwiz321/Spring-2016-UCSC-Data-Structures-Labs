@@ -1,0 +1,14 @@
+# ----------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12B
+# 3/31/16
+# Created a recursion program to insert numbers from one array
+# into another in reverse order from left to right and vice versa,
+# also flipped the numbers within an array, as well as recursively
+# found the index of the lowest and highest value within an array
+# ----------------------------------------------------------------
+
+Makefile
+README
+Recursion.java

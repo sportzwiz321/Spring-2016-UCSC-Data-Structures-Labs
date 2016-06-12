@@ -1,0 +1,16 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 4/5/16
+# Became more familiar with the command line.
+# Created a java program to eliminate white space
+# to the left and right of a line of text.
+# Separated each individual word (parts of words
+# if they were separated by something other than a space).
+# Printed out each string backwards
+# after coding a reverse string function recrusively.
+# ------------------------------------------------------------
+
+Makefile
+FileReverse.java

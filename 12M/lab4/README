@@ -1,0 +1,17 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 4/16/16
+# Programmed in C a program to read a file
+# allocated memory to store a large array of characters
+# split each line of the file into string or character arrays
+# those character arrays were then sorted into 4 categories
+# alphabetic, numeric, punctuation, and whitespace characters
+# the characters were then counted and written into an output file
+# once all the lines were read and printed to the output file
+# I freed up the allocated memory and closed the files
+# ------------------------------------------------------------
+
+Makefile
+charType.c

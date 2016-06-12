@@ -1,0 +1,16 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 4/8/16
+# Used concepts from lab 2 to search a file given from a file name
+# given to me in the command line. I searched and sorted the file
+# into an array of strings using merge sort. Then I used a binary
+# search to search for "target" strings. I printed out to the
+# standard output whether or not the target word was found
+# and if it was found, as well as what line it originally appeared on
+# in the unsorted list of words file.
+# ------------------------------------------------------------
+
+Makefile
+Search.java

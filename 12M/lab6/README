@@ -1,0 +1,21 @@
+# ------------------------------------------------------------
+# Nikolai Chen
+# nmchen
+# 12M
+# 5/20/16
+# lab6
+# Programmed in java a Generic List. We recreated the IntegerList
+# example that we were given in lecture weeks ago. I decided to use
+# a LinkedList implementation for this generic list. This list is
+# in that it can be a list of Integers or Strings or Doubles. List
+# implements the ListInterface but also overrides the equals and toString methods.
+# The methods available to the user are isEmpty, size, get, add,
+# remove, removeAll, toString, and equals.
+# ------------------------------------------------------------
+
+Makefile
+List.java
+ListTest.java
+ListInterface.java
+ListIndexOutOfBoundException.java
+ListClient.java
